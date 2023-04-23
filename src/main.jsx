@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
-import HelloWorldApp from './HelloWorldApp.jsx'
+import { HelloWorldApp } from './HelloWorldApp.jsx'
 
 
 
