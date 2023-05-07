@@ -1,6 +1,4 @@
 
-import { PropTypes } from 'prop-types';
-
 
 // Se pueden expresar { } expresiones, arrays, y funciones no async. Mo se pueden expresar objetos
 //Solo si se pasan por json
@@ -23,6 +21,3 @@ export const HelloWorldApp = ({ titulo, subtitulo }) => {
     )
 }
 
-HelloWorldApp.propTypes = {
-
-}
