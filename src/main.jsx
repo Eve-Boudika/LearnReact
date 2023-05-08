@@ -5,6 +5,7 @@ import './index.css'
 import { HelloWorldApp } from './HelloWorldApp.jsx';
 import { CounterApp } from './CounterApp.jsx';
 import { GifExpertApp } from './GifExpertApp.jsx';
+import './App.css';
 
 
 
